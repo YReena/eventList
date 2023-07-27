@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44d57070.css",
+    "main.js": "/static/js/main.93d27adb.js",
+    "static/media/date_picker.svg": "/static/media/date_picker.f1a36cc25d20994315f7.svg",
+    "index.html": "/index.html",
+    "main.44d57070.css.map": "/static/css/main.44d57070.css.map",
+    "main.93d27adb.js.map": "/static/js/main.93d27adb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44d57070.css",
+    "static/js/main.93d27adb.js"
+  ]
+}
